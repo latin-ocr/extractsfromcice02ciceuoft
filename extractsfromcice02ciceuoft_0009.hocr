@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./extractsfromcice02ciceuoft_0009.png"; bbox 0 0 1547 2520; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 379 999 961 1048">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 379 999 961 1048">
+     <span class='ocr_line' id='line_1_1' title="bbox 379 999 961 1048; baseline -0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 379 999 797 1048; x_wconf 82' lang='lat' dir='ltr'>SECTION</span> <span class='ocrx_word' id='word_1_2' title='bbox 866 1000 961 1047; x_wconf 86' lang='grc' dir='ltr'><strong>ΙΙΙ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 77 1199 1258 1244">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 77 1199 1258 1244">
+     <span class='ocr_line' id='line_1_2' title="bbox 77 1199 1258 1244; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 77 1199 343 1244; x_wconf 80' lang='lat' dir='ltr'>STORIES</span> <span class='ocrx_word' id='word_1_4' title='bbox 388 1199 776 1241; x_wconf 88' lang='lat' dir='ltr'>CONNECTED</span> <span class='ocrx_word' id='word_1_5' title='bbox 819 1200 994 1241; x_wconf 88' lang='lat' dir='ltr'>WITH</span> <span class='ocrx_word' id='word_1_6' title='bbox 1040 1199 1258 1244; x_wconf 83' lang='lat' dir='ltr'>OMENS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 439 1333 899 1376">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 439 1333 899 1376">
+     <span class='ocr_line' id='line_1_3' title="bbox 439 1333 899 1376; baseline 0.004 -2"><span class='ocrx_word' id='word_1_7' title='bbox 439 1333 576 1375; x_wconf 89' lang='lat' dir='ltr'>AND</span> <span class='ocrx_word' id='word_1_8' title='bbox 615 1334 899 1376; x_wconf 82' lang='lat' dir='ltr'><strong>DREAMS.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
